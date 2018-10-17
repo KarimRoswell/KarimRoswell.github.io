@@ -1,11 +1,46 @@
 button {
     background-color: cadetblue;
-    border: 2px black thick;
+    border: 2px black solid;
     color: greenyellow;
     text-align: center;    
     font-size: 16px;
 }
 
+footer{
+    background-color: violet;
+    text-align: center
+}
+
 h1.center {
     text-align: center
+}
+
+img#list-button-utah{
+    width: 100px;
+    height: 100px;
+    float: right;
+
+}
+
+header {
+    background-color: palegreen;
+    text-align: center
+    
+    
+}
+
+header p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 110%; 
+    
+}
+
+.byline{
+    font-style: italic;
+    font-size: 80%
+}
+
+main{
+    background-color: blue
 }
