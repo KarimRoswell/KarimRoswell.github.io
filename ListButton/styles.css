@@ -1,9 +1,42 @@
+aside{
+    background-color: blanchedalmond;
+    float: right;
+    width: 33%;
+    padding: 5px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border: 1px solid;
+    border-radius: 10px;
+    font-style: italic;
+}
 button {
     background-color: cadetblue;
     border: 2px black solid;
     color: greenyellow;
     text-align: center;    
     font-size: 16px;
+}
+
+button.test-button{
+    padding: 25px;
+    border: 15px green solid;
+    border-radius: 8px;
+    
+}
+
+button.test-button:hover{
+    background-color: bisque;
+}
+
+button.margin-button{
+    margin: 25px;
+    
+
+}
+
+div#margin-div{
+    border:1px black solid;
+    display: inline-block;
 }
 
 footer{
