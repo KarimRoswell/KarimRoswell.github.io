@@ -42,6 +42,11 @@ div#margin-div{
 footer{
     background-color: violet;
     text-align: center
+    
+}
+
+footer ul{
+    list-style-type: none;
 }
 
 h1.center {
