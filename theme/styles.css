@@ -16,4 +16,34 @@ nav li {
     display: inline;
     padding: 8px;    
 }
-            
+
+header{
+    text-align: center;
+}
+
+header p {
+    font-weight: bold;
+    color: grey;
+}
+
+.byline{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80%;
+}
+
+main{
+    background-color: cadetblue;
+    text-align: left;
+}
+
+footer{
+    background-color: cornflowerblue;
+    text-align: center
+}
+
+img#Circuit{
+    width: 200px;
+    height: 200px;
+    float: left;
+}
