@@ -1,11 +1,25 @@
-h1{
-    color: green
+header{
+    text-align: center;
+    background-color: green;
 }
 
-body{
-    font-size: 150%;
+header p {
+    font-weight: bold;
+    color: darkgray;
 }
 
-p{
-    color: blue
+.byline{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80%;
+}
+
+main{
+    background-color: darkolivegreen;
+    text-align: left;
+}
+
+footer{
+    background-color: aquamarine;
+    text-align: center
 }
